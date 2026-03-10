@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Javascript
 
 Short description of your project.
 Example: A simple web application that helps users manage daily tasks efficiently.
